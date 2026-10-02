@@ -3,7 +3,7 @@
 
 Synced automatically by SolveBase.
 
-**Total solved: 110**
+**Total solved: 111**
 
 ## Codeforces
 
@@ -20,10 +20,11 @@ Solutions by [Codeforces](https://codeforces.com/profile/), organized by difficu
 
 Solutions organized by primary topic folder.
 
-**Solved: 1**
+**Solved: 2**
 
 | Topic | Solved |
 | --- | --- |
+| [binary-search](./leetcode/binary-search) | 1 |
 | [stack](./leetcode/stack) | 1 |
 
 
