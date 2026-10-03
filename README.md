@@ -3,7 +3,7 @@
 
 Synced automatically by SolveBase.
 
-**Total solved: 119**
+**Total solved: 120**
 
 ## Codeforces
 
@@ -20,7 +20,7 @@ Solutions by [Codeforces](https://codeforces.com/profile/), organized by difficu
 
 Solutions organized by primary topic folder.
 
-**Solved: 7**
+**Solved: 8**
 
 | Topic | Solved |
 | --- | --- |
@@ -28,7 +28,7 @@ Solutions organized by primary topic folder.
 | [binary-search](./leetcode/binary-search) | 2 |
 | [dynamic-programming](./leetcode/dynamic-programming) | 1 |
 | [stack](./leetcode/stack) | 1 |
-| [two-pointers](./leetcode/two-pointers) | 2 |
+| [two-pointers](./leetcode/two-pointers) | 3 |
 
 
 ## CSES
